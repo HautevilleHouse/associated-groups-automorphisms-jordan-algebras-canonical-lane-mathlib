@@ -1,0 +1,2 @@
+import AssociatedGroupsAutomorphismsJordanAlgebrasCanonicalLaneLean.GateLemmas
+import AssociatedGroupsAutomorphismsJordanAlgebrasCanonicalLaneLean.FinalTheorem
